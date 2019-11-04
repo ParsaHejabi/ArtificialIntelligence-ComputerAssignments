@@ -32,7 +32,6 @@ public class DFS implements Algorithm {
     private void findPath() {
         while (!frontier.isEmpty()) {
             Node node = frontier.pop();
-            System.out.println(node);
             explored.add(node);
             if (node.getLevel() >= 300) {
                 continue;
