@@ -250,3 +250,7 @@ venv.bak/
 pip-selfcheck.json
 
 # End of https://www.gitignore.io/api/venv,macos,pycharm,pycharm+iml,pycharm+all,jupyternotebooks
+
+Files/ans.csv
+Files/ans2.csv
+*.zip
